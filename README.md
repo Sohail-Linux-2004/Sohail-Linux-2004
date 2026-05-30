@@ -1,15 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shaikh%20Sohail%20Ahamed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Linux%20System%20Administrator%20%7C%20Cloud%20%26%20Infrastructure%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,30:1a1a2e,60:16213e,100:0f3460&amp;height=220&amp;section=header&amp;text=Shaikh%20Sohail%20Ahamed&amp;fontSize=50&amp;fontColor=70A5FD&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=%F0%9F%90%A7%20Linux%20System%20Administrator%20%7C%20%E2%98%81%EF%B8%8F%20Cloud%20%26%20Infrastructure%20Enthusiast%20%7C%20%F0%9F%94%90%20RHCSA%20Certified&amp;descAlignY=62&amp;descSize=15&amp;descColor=BF91F3&amp;stroke=70A5FD&amp;strokeWidth=2" width="100%"/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sohailahamed&label=Profile%20Views&color=0d1117&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sohailahamed&amp;label=Profile%20Views&amp;color=0d1117&amp;style=flat-square" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/sohailahamed?label=Followers&style=flat-square&color=0d1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/sohailahamed?label=Followers&amp;style=flat-square&amp;color=0d1117" alt="Followers"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Linux+System+Administrator+%F0%9F%90%A7;RHCSA+Certified+%7C+Red+Hat+Inc.;AWS+Cloud+%7C+EC2+%7C+VPC+%7C+IAM+%7C+S3;Securing+%26+Automating+Linux+Environments;Open+Source+%7C+DevOps+Learner" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Linux+System+Administrator+%F0%9F%90%A7;RHCSA+Certified+%7C+Red+Hat+Inc.;AWS+Cloud+%7C+EC2+%7C+VPC+%7C+IAM+%7C+S3;Securing+%26+Automating+Linux+Environments;Open+Source+%7C+DevOps+Learner" alt="Typing SVG"/>
 </div>
 
 ---
@@ -104,11 +104,11 @@ motto
 
 <div align="center">
   <a href="https://github.com/sohailahamed">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=sohailahamed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=sohailahamed&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10" alt="GitHub Stats"/>
   </a>
   &nbsp;
   <a href="https://github.com/sohailahamed">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailahamed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailahamed&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10" alt="Top Languages"/>
   </a>
 </div>
 
@@ -117,7 +117,7 @@ motto
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sohailahamed&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=sohailahamed&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -125,7 +125,7 @@ motto
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohailahamed&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohailahamed&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -133,7 +133,7 @@ motto
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sohailahamed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sohailahamed&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -228,4 +228,4 @@ motto
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f3460,40:16213e,70:1a1a2e,100:0d1117&amp;height=140&amp;section=footer&amp;animation=twinkling&amp;text=Keep%20Systems%20Running.%20Keep%20Learning.%20Keep%20Securing.&amp;fontSize=14&amp;fontColor=70A5FD&amp;fontAlignY=65" width="100%"/>
